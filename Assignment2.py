@@ -87,7 +87,7 @@ r = Rectangle(4, 6)
 print("Rectangle Area:", r.calculate_area())
 
 
-#Question
+#Question 4
 class Dog:
     def make_sound(self):
         print("Woof!")
@@ -142,4 +142,5 @@ text_handler.write("Hello World")
 
 binary_handler.read()
 binary_handler.write(b'\x00\xFF')
+
 
